@@ -1,0 +1,12 @@
+C:\Users\pfeif\Repos\TobiiUDP\TobiiUDP\bin\Release\tobii_stream_engine.dll
+C:\Users\pfeif\Repos\TobiiUDP\TobiiUDP\bin\Release\Tobii.EyeX.Client.dll
+C:\Users\pfeif\Repos\TobiiUDP\TobiiUDP\bin\Release\TobiiUDP.exe.config
+C:\Users\pfeif\Repos\TobiiUDP\TobiiUDP\bin\Release\TobiiUDP.exe
+C:\Users\pfeif\Repos\TobiiUDP\TobiiUDP\bin\Release\TobiiUDP.pdb
+C:\Users\pfeif\Repos\TobiiUDP\TobiiUDP\bin\Release\Tobii.Interaction.Model.dll
+C:\Users\pfeif\Repos\TobiiUDP\TobiiUDP\bin\Release\Tobii.Interaction.Net.dll
+C:\Users\pfeif\Repos\TobiiUDP\TobiiUDP\obj\Release\TobiiUDP.csprojAssemblyReference.cache
+C:\Users\pfeif\Repos\TobiiUDP\TobiiUDP\obj\Release\TobiiUDP.csproj.CoreCompileInputs.cache
+C:\Users\pfeif\Repos\TobiiUDP\TobiiUDP\obj\Release\TobiiUDP.csproj.CopyComplete
+C:\Users\pfeif\Repos\TobiiUDP\TobiiUDP\obj\Release\TobiiUDP.exe
+C:\Users\pfeif\Repos\TobiiUDP\TobiiUDP\obj\Release\TobiiUDP.pdb
